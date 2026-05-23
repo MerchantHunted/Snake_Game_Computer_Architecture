@@ -53,7 +53,7 @@ The ESP32-C6 handles safe 3.3V analog readings and audio output, communicating w
 ### Installation & Execution
 
 1. **Flash the Controller:**
-   * Open `Snake_Game_Arduino_Code/Snake_Game_Arduino_Code.ino` in the Arduino IDE.
+   * Open `Snake_Game_Arduino_Code.ino` in the Arduino IDE.
    * Flash the code to your ESP32-C6.
    * Disconnect the ESP32 from your computer and plug it into the USB port of the MZ_APO board.
 
