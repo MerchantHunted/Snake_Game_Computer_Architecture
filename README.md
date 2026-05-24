@@ -35,11 +35,13 @@ This project was developed as the final assignment for the **Computer Architectu
 
 ### 2. ESP32-C6 DevKitC-1 (Controller Bridge)
 The ESP32-C6 handles safe 3.3V analog readings and audio output, communicating with the MZ_APO via a 115200 baud serial connection.
-* **Analog Joystick:** * `VRx` $\rightarrow$ GPIO 6
+* **Analog Joystick:**
+  * `VRx` $\rightarrow$ GPIO 6
   * `VRy` $\rightarrow$ GPIO 5
   * `VCC` $\rightarrow$ 3.3V (Strictly 3.3V logic)
   * `GND` $\rightarrow$ GND
-* **Active Buzzer:** * `Positive (+)` $\rightarrow$ GPIO 12
+* **Active Buzzer:**
+  * `Positive (+)` $\rightarrow$ GPIO 12
   * `Negative (-)` $\rightarrow$ GND
 
 ---
