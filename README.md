@@ -27,7 +27,8 @@ This project was developed as the final assignment for the **Computer Architectu
 ### 1. MZ_APO Board (Main Game Engine)
 * **Processor:** ARM Cortex-A9 (Xilinx Zynq-7000)
 * **OS:** GNU/Linux
-* **Peripherals Used:** * LCD Display (Memory-Mapped)
+* **Peripherals Used:**
+  * LCD Display (Memory-Mapped)
   * 3x Push-Button Rotary Encoders
   * 2x RGB LEDs
   * 32-LED Line
